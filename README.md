@@ -1,4 +1,7 @@
-# v2ray-heroku
+
+直接点击一键部署即可，注意客户端设置，端口443，UUID默认的，VLESS协议
+
+
 
 > ~~貌似新建的app有些需要科学访问~~，如果需要，请使用cloudflare worker CDN 套一层。
 
